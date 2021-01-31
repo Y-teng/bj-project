@@ -1,0 +1,17 @@
+.login 
+  width  100vw
+  height 100vh
+  overflow hidden
+
+  .el-form 
+      width 40%
+      margin auto
+      margin-top 300px
+      background-color white
+      text-align  center
+
+  .el-button--primary
+      background-color red
+      border 1px solid white 
+      font-weight bold
+      
